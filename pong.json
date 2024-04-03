@@ -23,29 +23,6 @@
                 "zh_CN": "20年来，Metro Art委托艺术家捕捉洛杉矶充满活力的社区魔力。"
             },
             "href": "https://art.metro.net/category/artworks/exhibitions/tteoa/"
-        },
-        {
-            "agency": "f-metro~losangeles~bus~rt",
-            "background": "black",
-            "headline": {
-                "en": "Catenary is embracing the car!",
-                "fr": "Catenary embrasse la voiture!",
-                "es": "Catenary is embracing the car!",
-                "de": "Catenary is embracing the car!",
-                "ko": "Catenary is embracing the car!",
-                "zh_TW": "Catenary is embracing the car!",
-                "zh_CN": "Catenary is embracing the car!"
-            },
-            "content": {
-                "en": "Get freeway and parking lot info in bright red, and disable those pesky \"transit\" layers",
-                "fr": "Obtenez des informations sur les autoroutes et les parkings en rouge vif et désactivez ces satanés calques de « transit »",
-                "es": "Get freeway and parking lot info in bright red, and disable those pesky \"transit\" layers",
-                "de": "Get freeway and parking lot info in bright red, and disable those pesky \"transit\" layers.",
-                "ko": "Get freeway and parking lot info in bright red, and disable those pesky \"transit\" layers.",
-                "zh_TW": "Get freeway and parking lot info in bright red, and disable those pesky \"transit\" layers.",
-                "zh_CN": "Get freeway and parking lot info in bright red, and disable those pesky \"transit\" layers."
-            },
-            "href": "https://twitter.com/CatenaryMaps/status/1774662996884902362"
         }
     ]
 }
