@@ -2,7 +2,7 @@
     "ping": "OK",
     "alerts": [
         {
-            "agency": "f-metro~losangeles~bus~rt",
+            "chateau": "metro~losangeles",
             "background": "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/img/Edith-Waddell-Glendale-copy.jpg) bottom center no-repeat, black",
             "headline": {
                 "en": "Your community, through the eyes of artists",
